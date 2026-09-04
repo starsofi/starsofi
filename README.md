@@ -20,7 +20,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto | Preview Online | Tecnologias Usadas |
 |-----------------------|-------------------------------------|--------------------------|
-| **Link na bio** | [🔗 Ver online] (https://starsofi.github.io/LINKBIO/) | HTML / CSS |
+| **Link na bio** | [🔗 Ver online](https://starsofi.github.io/LINKBIO/) | HTML / CSS |
 | **Formulário** | [🔗 Ver online](https://starsofi.github.io/FORMULARIO/) | HTML / CSS |
 | **Tabela Brasileirão** | [🔗 Ver online](https://starsofi.github.io/atividade/) | HTML / CSS |
 
