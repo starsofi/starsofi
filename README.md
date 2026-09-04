@@ -34,7 +34,7 @@ Code, Learn, Repeat. 🔁
 ---
 
 ## 📫 Redes Sociais
-* 💼 [**LinkedIn**](https://www.linkedin.com/in/sofia-goncalves-silva-49bb782ab/)
+* 💼 [**LinkedIn**](https://www.linkedin.com/in/sofia-gon%C3%A7alves-silva-49bb782ab/)  
 * 👩‍💻 [**GitHub**](https://github.com/starsofi)
 
 
