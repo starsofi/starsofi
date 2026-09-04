@@ -20,11 +20,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto | Preview Online | Tecnologias Usadas |
 |-----------------------|-------------------------------------|--------------------------|
-| **Meu Primeiro Portfólio** | [🔗 Ver online](https://github.io) | HTML / CSS / JS |
-| **App de Lista de Tarefas** | [🔗 Ver online](https://github.com) | React / CSS |
-| **Sistema Escolar** | [🔗 Ver online](https://github.com) | Python / MySQL |
-
-> 💡 Dica: Quando você publicar seus projetos no GitHub Pages, atualize os links acima!
+| **Link na bio** | [🔗 Ver online] (https://starsofi.github.io/LINKBIO/) | HTML / CSS |
+| **Formulário** | [🔗 Ver online](https://starsofi.github.io/FORMULARIO/) | HTML / CSS |
+| **Tabela Brasileirão** | [🔗 Ver online](https://starsofi.github.io/atividade/) | HTML / CSS |
 
 ---
 
@@ -38,7 +36,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LinkedIn]([https://shields.io](https://www.linkedin.com/in/sofia-gon%C3%A7alves-silva-49bb782ab))](https://linkedin.com)
 [![Instagram](https://shields.io)](https://instagram.com)
 [![GitHub](https://shields.io)](https://github.com)
 
