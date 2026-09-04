@@ -1,36 +1,50 @@
 # 👋 Olá! Eu sou Sofia Silva
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em **Front-End e Design de Interfaces (UX/UI)**.
 
+Sou estudante do **2º semestre de Desenvolvimento de Sistemas** no **SENAI Guarulhos** 🎓.
+Code, Learn, Repeat. 🔁
 ---
+## 🎯 Meus Objetivos & Interesses
+* 🚀 **Foco Atual:** Aprendendo a criar páginas web dinâmicas e funcionais.
+* 🎯 **Objetivo:** Conseguir minha primeira oportunidade como Desenvolvedora Júnior / Estagiária.
+* 🧠 **Áreas de interesse:** Desenvolvimento Front-End, Design de Interfaces (UX/UI) e Lógica de Programação.
 
-## 🎯 Tecnologias que estou aprendendo
+## 🎯 Minhas Tecnologias e Ferramentas
 
-### Front-End
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Bootstrap](https://shields.io)
+### 💻 Front-End
+* 🌐 **HTML**
+* 🎨 **CSS**
 
-### Back-End
-![Node.js](https://shields.io) ![Express](https://shields.io) ![Python](https://shields.io) ![Django](https://shields.io) ![MySQL](https://shields.io)
+### ⚙️ Back-End & Banco de Dados
+* 🐍 **Python**
+* 🗄️ **MySQL**
 
-### Mobile
-![Flutter](https://shields.io) ![React Native](https://shields.io) ![Kotlin](https://shields.io) ![Java](https://shields.io)
+### 🛠️ Ferramentas & Editores
+* 📝 **VS Code**
+* 📊 **Flowgorithm**
+* 🐙 **GitHub**
+* 💻 **CMD**
 
 ---
 
 ## 🚀 Meus Projetos
-
-| Projeto | Preview Online | Tecnologias Usadas |
-|-----------------------|-------------------------------------|--------------------------|
-| **Link na bio** | [🔗 Ver online](https://starsofi.github.io/LINKBIO/) | HTML / CSS |
-| **Formulário** | [🔗 Ver online](https://starsofi.github.io/FORMULARIO/) | HTML / CSS |
-| **Tabela Brasileirão** | [🔗 Ver online](https://starsofi.github.io/atividade/) | HTML / CSS |
+* 📁 **Link na bio** | [🔗 Ver online](https://starsofi.github.io/LINKBIO/) | HTML / CSS
+* 📁 **Formulário** | [🔗 Ver online](https://starsofi.github.io/FORMULARIO/) | HTML / CSS
+* 📁 **Tabela Brasileirão**  | [🔗 Ver online](https://starsofi.github.io/atividade/) | HTML / CSS
 
 ---
 
-## 💡 Sobre Mim
-- 🎓 Atualmente estudo no curso técnico de **Desenvolvimento de Sistemas**
-- 💻 Estou focando meus estudos em **JavaScript e React** para criar páginas modernas
-- 🎯 Meu objetivo é **conseguir meu primeiro estágio ou vaga como Desenvolvedora Júnior**
-- 📚 Gosto de aprender sobre **tecnologia, inovação e criação de layouts bonitos**
+## 📫 Redes Sociais
+* 💼 [**LinkedIn**](https://www.linkedin.com/in/sofia-goncalves-silva-49bb782ab/)
+* 👩‍💻 [**GitHub**](https://github.com/starsofi)
+
+
+
+
+- 🎓 Atualmente estudo no curso técnico de **Desenvolvimento de Sistemas** no **SENAI Guarulhos**
+- 💻 Estou focando meus estudos em **Lógica de Programação, Python e Banco de Dados (MySQL)**
+- 🎯 Meu objetivo é **desenvolver meus primeiros projetos completos e conseguir um estágio**
+- 📚 Gosto de aprender sobre **tecnologia, resolução de problemas e criação de layouts com HTML e CSS**
+
 
 ---
 
