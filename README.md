@@ -1,6 +1,5 @@
-## Olá, sou a Sofia Gonçalves Silva 👋
-
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em **[coloque aqui seu interesse: ex. Front-End, Back-End, UX/UI]**.
+# 👋 Olá! Eu sou Sofia Silva
+Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em **Front-End e Design de Interfaces (UX/UI)**.
 
 ---
 
@@ -21,19 +20,19 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto | Preview Online | Tecnologias Usadas |
 |-----------------------|-------------------------------------|--------------------------|
-| **Nome do Projeto 1** | [🔗 Ver online](https://seu-link.com) | HTML / CSS / JS |
-| **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
-| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart |
+| **Meu Primeiro Portfólio** | [🔗 Ver online](https://github.io) | HTML / CSS / JS |
+| **App de Lista de Tarefas** | [🔗 Ver online](https://github.com) | React / CSS |
+| **Sistema Escolar** | [🔗 Ver online](https://github.com) | Python / MySQL |
 
-> 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
+> 💡 Dica: Quando você publicar seus projetos no GitHub Pages, atualize os links acima!
 
 ---
 
 ## 💡 Sobre Mim
-- 🎓 Atualmente estudo no **Senai**
-- 💻 Estou aprendendo **Desenvolvimento de Sistemas**
-- 🎯 Meu objetivo é **Me aprofundar na area e posteriormente ter uma formação**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
+- 🎓 Atualmente estudo no curso técnico de **Desenvolvimento de Sistemas**
+- 💻 Estou focando meus estudos em **JavaScript e React** para criar páginas modernas
+- 🎯 Meu objetivo é **conseguir meu primeiro estágio ou vaga como Desenvolvedora Júnior**
+- 📚 Gosto de aprender sobre **tecnologia, inovação e criação de layouts bonitos**
 
 ---
 
@@ -42,6 +41,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Instagram](https://shields.io)](https://instagram.com)
 [![GitHub](https://shields.io)](https://github.com)
+
 
 
 <!--
